@@ -1,0 +1,15 @@
+img {
+  max-width: 100%;
+}
+
+
+.banner{
+ position: relative;
+}
+
+.banner-title{
+ position: absolute;
+ top: 200px;
+ left: 20px;
+ color: aliceblue;
+}

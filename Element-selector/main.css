@@ -1,0 +1,22 @@
+/* input:required{
+ background-color: gray;
+ color: white;
+}
+
+input:disabled{
+ background-color: gray;
+ color: white;
+}
+input:placeholder-shown{
+ background-color: gray;
+ color: white;
+} */
+
+input:invalid{
+ border: 3px solid red;
+ border-radius: 5px;
+}
+input:valid{
+ border: 3px solid green;
+ border-radius: 5px;
+}
